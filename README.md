@@ -1,8 +1,8 @@
 # python
 
-## spider 
+## spider 测试基金代码事例
 
-		测试基金代码事例
+		
 		spider = Spider("http://fund.eastmoney.com/f10/jjzh_001494.html")
 		html= spider.getHtml();
 
